@@ -1,15 +1,3 @@
-// import 'package:flutter/material.dart';
-
-// class AreaOfCircleBlocView extends StatelessWidget {
-//   const AreaOfCircleBlocView({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return const Placeholder();
-//   }
-// }
-
-// area_of_circle_bloc_view.dart
 import 'package:class_assignment_2/bloc/area_of_circle_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

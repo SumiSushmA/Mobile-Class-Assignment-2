@@ -1,4 +1,3 @@
-// area_of_circle_bloc.dart
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
 

@@ -1,14 +1,3 @@
-// import 'package:flutter/material.dart';
-
-// class SimpleInterestBlocView extends StatelessWidget {
-//   const SimpleInterestBlocView({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return const Placeholder();
-//   }
-// }
-
 import 'package:class_assignment_2/bloc/simple_interest_bloc.dart';
 import 'package:class_assignment_2/bloc/simple_interest_event.dart';
 import 'package:flutter/material.dart';
